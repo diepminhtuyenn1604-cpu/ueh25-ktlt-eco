@@ -1,0 +1,10 @@
+[
+    {
+        "user": "Alice",
+        "tweet": "Hello World!"
+    },
+    {
+        "user": "Bob",
+        "tweet": "Python is great!"
+    }
+]
